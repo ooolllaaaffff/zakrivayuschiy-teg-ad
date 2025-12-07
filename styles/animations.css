@@ -22,7 +22,7 @@
 }
 
 .like-icon:hover .core {
-  fill: #000000; 
+  fill: #000000;
 }
 
 .like-icon:hover .main-body {
@@ -31,7 +31,7 @@
 }
 
 .like-icon:active .core {
-  fill: #ff0000; 
+  fill: #ff0000;
 }
 
 .like-icon:active .main-body {
@@ -40,7 +40,7 @@
 }
 
 .like-icon.is-liked .core {
-  fill: #ff0000; 
+  fill: #ff0000;
 }
 
 .like-icon.is-liked .main-body {
