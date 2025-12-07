@@ -37,7 +37,8 @@
   padding: var(--padding-header);
   border: var(--border-width) solid var(--color-border);
   gap: 20px;
-  background-color: var(--color-background); }
+  background-color: var(--color-background);
+}
 
 .header__title {
   font-family: var(--font-family-accent), fantasy;
